@@ -1,1 +1,19 @@
 
+Meraki AP - data no tunnel -> xxxx -> internet -> meraki cloud
+
+user data stays internal
+
+accounts 
+-manages -> organizations -> contains -> networks -> contains devices
+
+networks are containers for devices
+
+products
+MR20 - flagship called meraki radio -> This is an AP 
+MV12WE - meraki video - 
+MS120-8 meraki ethernet switch [reaches back to meraki cloud for mgmt]
+MX64 - meraki security firewall [traffic filtering policies  routed and switched operating modes and remote access VPN's]
+
+Also have IP phones, device managers etc
+
+
